@@ -1,20 +1,28 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
     <title>
       Demande de devis | Allo Taxi Sud Tarascon - Votre taxi 7 jours/7 à
-      Tarascon
+      Tarascon et ses alentours
     </title>
     <meta
       name="description"
       content="Obtenez un devis gratuit pour votre trajet avec Allo Taxi Sud Tarascon. Disponible 7j/7 à Tarascon et ses alentours. Trajets toutes distances, confort et ponctualité garantis." />
     <meta
       name="keywords"
-      content="demande de devis taxi, taxi Tarascon, VTC Tarascon, transport médical, devis transport VSL, devis taxi mariage, Allo Taxi Sud Tarascon, devis taxi personnalisé" />
+      content="demande de devis taxi, taxi Tarascon, taxi VTC Tarascon, transport médical, devis transport VSL, devis taxi mariage, Allo Taxi Sud Tarascon, devis taxi personnalisé" />
     <link
       rel="canonical"
       href="https://allo-taxi-gambetta-tarascon.fr/demande-de-devis.php" />
@@ -22,7 +30,7 @@
     <!-- Open Graph (Facebook & LinkedIn) -->
     <meta
     property="og:title"
-    content="Allo Taxi Sud Tarascon | Taxi 7j/7 à Tarascon et ses alentours" />
+    content="Allo Taxi Sud Tarascon | Taxi 7j/7 Tarascon et ses alentours" />
     <meta
     property="og:description"
     content="Transport de qualité 24h/24 et 7j/7 sur réservation à Tarascon : Taxis, transferts aéroports, gares, tourisme, évènements, transport médical." />
@@ -239,20 +247,20 @@
               <li>
                 <i class="bi bi-geo-fill"></i>
                 <span> Tarascon : </span><br />
-                Devant la mairie, 8 rue Marcel Honorat, 13990 Tarascon
+                Devant la gare, Boulevard Gustave Desplaces, 13150 Tarascon
                 <br />
               </li>
-              <!-- <li>
+              <li>
                 <i class="bi bi-geo-fill"></i>
-                <span> Tarascon : </span><br />
-                Devant la gare, Boulevard Gustave Desplaces, 13150 Tarascon
+                <span> Fontvieille : </span><br />
+                Devant la mairie, 8 rue Marcel Honorat, 13990 Fontvieille
                 <br />
               </li>
               <li>
                 <i class="bi bi-geo-fill"></i>
                 <span> Saint Étienne du Grès : </span><br />
                 Devant la mairie, Place de la Mairie 13103 Saint-Étienne-du-Grès
-              </li> -->
+              </li>
             </ul>
           </div>
           <div class="item-contact">
@@ -263,36 +271,36 @@
             <ul>
               <li>
                 <i class="bi bi-phone"></i>
-                <a href="tel:+33609958676">
-                  <span> Groupe Allo Taxi Sud : </span> <br />
+                <a href="tel:+33667319832">
+                  <span> Allo Taxi Sud & Allo Taxi Sud Alpilles : </span> <br />
                   06.67.31.98.32</a
                 >
               </li>
               <li>
                 <i class="bi bi-phone"></i>
 
-                <a href="tel:0609958676">
-                  <span> Allo Taxi Tarascon : </span><br />
-                  06.09.95.86.76</a
+                <a href="tel:+33617432959">
+                  <span> Allo Taxi Fontvieille : </span><br />
+                  06.17.43.29.59</a
                 >
               </li>
-              <!-- <li>
+              <li>
                 <i class="bi bi-phone"></i>
 
-                <a href="tel:0609958676">
+                <a href="tel:+33609958676">
                   <span> Allo Taxi Tarascon : </span>
                   <br />
                   06.09.95.86.76</a
                 >
-              </li> -->
-              <!-- <li>
+              </li>
+              <li>
                 <i class="bi bi-phone"></i>
 
-                <a href="tel:0610892802">
+                <a href="tel:+33610892802">
                   <span> Allo Taxi St-Étienne-du-Grès : </span><br />
                   06.10.89.28.02</a
                 >
-              </li> -->
+              </li>
             </ul>
           </div>
           <div class="item-contact">
@@ -304,9 +312,9 @@
               <li>
                 <i class="bi bi-envelope-paper"></i>
                 <span>Email :</span><br />
-                <a href="mailto:contact@allo-taxi-gambetta-tarascon.fr"
-                      >contact@allo-taxi-gambetta-tarascon.fr</a
-                    >
+                <a href="mailto:contact@allo-taxi-gambetta-tarascon.fr">
+                  contact@allo-taxi-gambetta-tarascon.fr</a
+                >
               </li>
             </ul>
           </div>

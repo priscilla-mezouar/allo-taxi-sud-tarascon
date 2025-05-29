@@ -1,19 +1,28 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
     <title>
-      Nouveaux partenariats 2025 | Allo Taxi Sud Tarascon - Votre taxi à Tarascon et ses alentours
+      Nouveaux partenariats 2025 | Allo Taxi Sud Tarascon - Votre taxi 7 jours/7
+      à Tarascon et ses alentours
     </title>
     <meta
       name="description"
-      content="Découvrez les nouveaux partenaires d’Allo Taxi Sud Tarascon : hôtels, gîtes, wedding planners, lieux touristiques et professionnels de santé à Tarascon et ses alentours." />
+      content="Découvrez les nouveaux partenaires d’Allo Taxi Sud Tarascon : hôtels, gîtes, wedding planners, lieux touristiques et professionnels de santé autour de Tarascon et ses alentours." />
     <meta
       name="keywords"
-      content="partenaires Allo Taxi Sud Tarascon, partenariat taxi Tarascon, taxi hôtels Tarascon, taxi Tarascon, wedding planner Tarascon, taxi tourisme, taxi professionnel santé, Allo Taxi Sud Tarascon" />
+      content="partenaires Allo Taxi Sud Tarascon, partenariat taxi Tarascon, taxi hôtels Tarascon, taxi Tarascon, wedding planner Tarascon, taxi tourisme Tarascon, taxi professionnel santé Tarascon, Allo Taxi Sud Tarascon" />
 
     <link
       rel="canonical"
@@ -55,7 +64,7 @@
           Allo Taxi Sud Tarascon tisse des liens avec des acteurs locaux pour offrir
           toujours plus de services à ses clients. Découvrez ici nos tout
           nouveaux partenariats, pensés pour renforcer la proximité, la qualité
-          et la réactivité de nos prestations à Tarascon et alentours.
+          et la réactivité de nos prestations à Tarascon et ses alentours.
         </p>
       </div>
 
@@ -65,7 +74,7 @@
         <h2>Devenez partenaire d’Allo Taxi Sud Tarascon</h2>
         <p>
           Vous êtes hôtelier, restaurateur, wedding planner ou acteur du
-          tourisme à Tarascon et ses alentours ?
+          tourisme à Tarascon ?
           <br /><strong>Allo Taxi Sud Tarascon</strong> vous propose un service de
           transport fiable et local pour vos clients, adapté à leurs besoins.
           <br />Ensemble, offrons une expérience complète et sereine à vos
@@ -75,10 +84,9 @@
           <a
             class="button-link"
             href="./demande-de-devis.php"
-            class="button-link"
             ><i class="bi bi-envelope"></i> Demander un devis</a
           >
-          <a class="button-link" href="tel:+33609958676" class="button-link"
+          <a class="button-link" href="tel:+33609958676" 
             ><i class="bi bi-phone"></i> Réservation express</a
           >
         </div>

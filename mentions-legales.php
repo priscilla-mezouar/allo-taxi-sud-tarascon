@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html lang="fr">
-  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <head>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
     <title>
-      Mentions légales | Allo Taxi Sud Tarascon - Votre taxi 7 jours/7 à Tarascon et ses alentours
+      Mentions légales | Allo Taxi Sud Tarascon - Votre taxi 7 jours/7 à
+      Tarascon et ses alentours
     </title>
     <meta name="description" content="Découvrez nos mentions légales." />
     <meta name="keywords" content="liens utiles, mentions légales" />
@@ -56,7 +65,7 @@
           intervenants dans le cadre de sa réalisation et de son suivi :
           <br /><br />
           <strong> Propriétaire : </strong> Louis Chabran Taxi– 16 che Fourques
-          13990 Tarascon <br /><br />
+          13990 FONTVIEILLE <br /><br />
           <strong>Numéro SIRET : </strong>530210418 000 14 <br /><br />
           <strong>Créateur : </strong><a href="https://webilys.fr">Webilys</a>
           <br /><br />
@@ -282,6 +291,7 @@
           l’onglet « Confidentialité », vous pouvez bloquer les cookies.
         </p>
       </section>
+      
       <section class="card">
         <h2>9. Droit applicable et attribution de juridiction.</h2>
         <p>

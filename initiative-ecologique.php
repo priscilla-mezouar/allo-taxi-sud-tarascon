@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
@@ -11,10 +19,10 @@
     </title>
     <meta
       name="description"
-      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement à Tarascon." />
+      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement dans la région des Alpilles." />
     <meta
       name="keywords"
-      content="taxi écologique Tarascon, transport durable Tarascon, initiative écologique Allo Taxi Sud Tarascon, réduction des émissions CO2, transport propre Tarascon, mobilité verte Tarascon" />
+      content="taxi écologique Alpilles, véhicules électriques Tarascon, transport durable Tarascon, initiative écologique Allo Taxi Sud Tarascon, réduction des émissions CO2, transport propre Saint-Rémy-de-Provence, mobilité verte Baux-de-Provence" />
 
     <link
       rel="canonical"
@@ -25,7 +33,7 @@
     <meta property="og:title" content="Initiative écologique | Allo Taxi Sud Tarascon" />
     <meta
       property="og:description"
-      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement à Tarascon." />
+      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement dans la région des Alpilles." />
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
@@ -35,7 +43,7 @@
     <meta name="twitter:title" content="Initiative écologique" />
     <meta
       name="twitter:description"
-      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement à Tarascon." />
+      content="Découvrez l'engagement écologique d'Allo Taxi Sud Tarascon : une flotte de véhicules 100 % électriques pour réduire l'empreinte carbone et offrir un service de transport respectueux de l'environnement dans la région des Alpilles." />
 
   </head>
   <body class="articles">
@@ -75,7 +83,8 @@
           <li>
             <strong>Réduire les émissions de CO2 :</strong> En remplaçant les
             véhicules thermiques par des voitures électriques, nous participons
-            activement à la réduction des gaz à effet de serre à Tarascon.
+            activement à la réduction des gaz à effet de serre dans notre belle
+            région des Alpilles.
           </li>
           <li>
             <strong>Limiter la pollution sonore :</strong> Les véhicules
@@ -125,8 +134,7 @@
           transport simple, pratique et respectueuse de la planète. Nous offrons
           des trajets dans toute la région des Alpilles, en particulier à
           <strong>
-            Tarascon, Tarascon, Saint-Étienne-du-Grès,
-            Saint-Rémy-de-Provence, et Les Baux-de-Provence </strong
+            Tarascon, Fontvieille et Saint-Étienne-du-Grès</strong
           >.
         </p>
       </section>
@@ -159,16 +167,15 @@
           <strong>Allo Taxi Sud Tarascon</strong> s’engage pour l’environnement en
           privilégiant des pratiques de conduite soucieuses de la planète.
           <br />Nous favorisons les trajets optimisés, la réduction des
-          émissions et le soutien aux initiatives locales à Tarascon.
+          émissions et le soutien aux initiatives locales dans les Alpilles.
         </p>
         <div class="buttons-cta">
           <a
             class="button-link"
             href="./demande-de-devis.php"
-            class="button-link"
             ><i class="bi bi-envelope"></i> Demander un devis</a
           >
-          <a class="button-link" href="tel:+33609958676" class="button-link"
+          <a class="button-link" href="tel:+33609958676"
             ><i class="bi bi-phone"></i> Réservation express</a
           >
         </div>
