@@ -14,15 +14,15 @@
 
     <!-- Titre et description -->
     <title>
-      Guide des vignobles des Alpilles 2025 | Allo Taxi Sud Fontvieille –
+      Guide des vignobles des Alpilles 2025 | Allo Taxi Sud Tarascon –
       Œnotourisme et transports dans les Bouches-du-Rhône
     </title>
     <meta
       name="description"
-      content="Explorez les vignobles d'exception des Alpilles en 2025 : dégustations, visites de domaines et circuits œnologiques à Saint-Rémy, Maussane, Fontvieille… Réservez votre taxi local avec Allo Taxi Sud Fontvieille." />
+      content="Explorez les vignobles d'exception des Alpilles en 2025 : dégustations, visites de domaines et circuits œnologiques à Saint-Rémy, Maussane, Tarascon… Réservez votre taxi local avec Allo Taxi Sud Tarascon." />
     <meta
       name="keywords"
-      content="vignobles Alpilles 2025, œnotourisme Provence, domaines viticoles Saint-Rémy, vins Maussane, dégustation vin Alpilles, Allo Taxi Sud Fontvieille, transport domaine viticole" />
+      content="vignobles Alpilles 2025, œnotourisme Provence, domaines viticoles Saint-Rémy, vins Maussane, dégustation vin Alpilles, Allo Taxi Sud Tarascon, transport domaine viticole" />
 
     <link
       rel="canonical"
@@ -46,7 +46,7 @@
       content="Guide des vignobles des Alpilles 2025" />
     <meta
       name="twitter:description"
-      content="Découvrez les plus beaux domaines viticoles des Alpilles et vivez une expérience œnologique unique en Provence. Allo Taxi Sud Fontvieille assure vos trajets." />
+      content="Découvrez les plus beaux domaines viticoles des Alpilles et vivez une expérience œnologique unique en Provence. Allo Taxi Sud Tarascon assure vos trajets." />
 
   </head>
   <body class="articles">
@@ -210,7 +210,7 @@
       <section class="card-yellow cta">
         <h2>Partez à la découverte des vignobles 2025</h2>
         <p>
-          Avec <strong>Allo Taxi Sud Fontvieille</strong>, explorez les domaines viticoles
+          Avec <strong>Allo Taxi Sud Tarascon</strong>, explorez les domaines viticoles
           des Alpilles en toute sérénité. <br />Profitez d’un transport
           confortable et sécurisé pour vos visites de caves, dégustations et
           circuits œnologiques dans la région.
